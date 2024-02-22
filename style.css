@@ -1,7 +1,11 @@
+:root{--gato:#ba91cf;
+
+}
+
 h3{
 color: greenyellow;
 }
 
-*{
-    background-color:black;
+body{ background-color: var(--gato);
+    
 }

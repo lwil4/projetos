@@ -1,9 +1,9 @@
-:root{--gato:#8ab9da;
+:root{--gato:#99ff91;
 
 }
 
 h3{
-color: greenyellow;
+color: rgb(2, 58, 12);
 }
 
 body{ background-color: var(--gato);

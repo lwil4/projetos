@@ -6,8 +6,12 @@ h3{
 color: rgb(17, 103, 33);
 }
 
-body{ background-color: var(--gato);
-    
+body{ 
+    background-color: var(--gato);
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .foto{width: 40%;}

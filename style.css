@@ -8,18 +8,18 @@ color: rgb(17, 103, 33);
 
 body{ 
     background-color: var(--gato);
-    font-family: "Tangerine", cursive;
-    font-weight: 700;
+    font-family: "Bilbo Swash Caps", cursive;
+    font-weight: 400;
     font-style: normal;
 }
 
 .foto{width: 40%;}
 
-.tangerine-regular {
-    font-family: "Tangerine", cursive;
+.bilbo-swash caps-regular {
+    font-family: "Bilbo Swash Caps", cursive;
     font-weight: 400;
     font-style: normal;
-  }
+  }  
   
   .tangerine-bold {
     font-family: "Tangerine", cursive;

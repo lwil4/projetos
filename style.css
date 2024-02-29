@@ -8,22 +8,28 @@ color: rgb(17, 103, 33);
 
 body{ 
     background-color: var(--gato);
-    font-family: "Bilbo Swash Caps", cursive;
+    font-family: "Gaegu", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
 .foto{width: 40%;}
 
-.bilbo-swash caps-regular {
-    font-family: "Bilbo Swash Caps", cursive;
+.gaegu-bold {
+    font-family: "Gaegu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .gaegu-regular {
+    font-family: "Gaegu", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }  
+  }
   
-  .tangerine-bold {
-    font-family: "Tangerine", cursive;
-    font-weight: 700;
+  .gaegu-light {
+    font-family: "Gaegu", sans-serif;
+    font-weight: 300;
     font-style: normal;
   }
   

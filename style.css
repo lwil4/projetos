@@ -11,3 +11,10 @@ body{ background-color: var(--gato);
 }
 
 .foto{width: 40%;}
+
+.caveat-letras {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

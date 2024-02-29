@@ -1,1 +1,1 @@
-alert('oi');
+const cris = document.querySelectorAll("button");

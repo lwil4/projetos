@@ -1,8 +1,8 @@
-var nome_Usuario = prompt('Qual é o seu nome?');
+var nome_Usuario = prompt('Qual é o seu nome?'); //variável para perguntar o nome//
 var texto = document.querySelector('span');
 //linha de respiro//
 while(nome_Usuario == '' ){// || nome_Usuario == null
-nome_Usuario = prompt('Qual é o seu nome?');       
+nome_Usuario = prompt('Qual é o seu nome?'); //repete a caixinha clique OK sem texto definido//  
 }
 //linha de respiro//
 if(nome_Usuario == null){ 

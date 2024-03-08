@@ -1,9 +1,9 @@
-:root{--gato:#837ba1;
+:root{--gato:#978bc0;
 
 }
 
 h3{
-color: rgb(17, 103, 33);
+color: rgb(63, 26, 94);
 }
 
 body{ 
@@ -34,5 +34,5 @@ body{
   }
   
   span{
-    color:rgb(45, 11, 85);
+    color:rgb(107, 15, 211);
   }

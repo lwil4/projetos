@@ -1,15 +1,12 @@
 let numeroSecreto = 7;
+let chute ='';
 
-let chute = '';
-
-while(chute == ''){
-    prompt('Escolha número de 0 a 10');
+while(chute==''){
+    chute = prompt('es');
 }
 
-
-
 if(numeroSecreto == chute){
-    alert('Parabéns, acertou em cheio!!!');
-}  else{
-    alert('Que pena, você errou );');
+    alert('para');
+} else{
+    alert('triste');
 }

@@ -1,4 +1,14 @@
 let numeroSecreto = 7;
 
-prompt('Escolha número de 0 a 10');
+let chute = prompt('Escolha número de 0 a 10');
 
+
+
+
+
+
+if(numeroSecreto == chute){
+    alert('Parabéns, acertou em cheio!!!')
+}   else{
+    alert('Que pena, você errou );')
+}

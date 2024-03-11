@@ -2,11 +2,13 @@ let numeroSecreto = 7;
 let chute ='';
 
 while(chute==''){
-    chute = prompt('es');
+    chute = prompt('Escolha um número de 0 a 10');
 }
 
 if(numeroSecreto == chute){
-    alert('para');
+    alert('Parabéns, você acertou!!!');
 } else{
-    alert('triste');
+    alert('Que pena, você errou );');
 }
+
+

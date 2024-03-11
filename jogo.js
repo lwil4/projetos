@@ -6,7 +6,7 @@ while(chute==''){
 }
 
 if(numeroSecreto == chute){
-    alert('Parabéns, você acertou!!!');
+    alert('Parabéns, você acertou :D');
 } else{
     alert('Que pena, você errou );');
 }

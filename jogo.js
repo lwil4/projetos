@@ -8,7 +8,6 @@ while (chute == ''){
 
 
 
-
 if(numeroSecreto == chute){
     alert('Parabéns, acertou em cheio!!!')
 }   else{

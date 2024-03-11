@@ -2,7 +2,7 @@ let numeroSecreto = 7;
 
 let chute = '';
 
-while (chute == ''){
+while(chute == ''){
     prompt('Escolha número de 0 a 10');
 }
 

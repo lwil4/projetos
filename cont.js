@@ -1,2 +1,2 @@
 const botoes = document.querySelectorAll('.objetivos');
-console.log(botoes.leght);
+console.log(botoes.length);

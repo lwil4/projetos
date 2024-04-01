@@ -36,3 +36,7 @@ body{
   span{
     color:rgb(107, 15, 211);
   }
+
+  .contagem-regressiva{
+    text-align: center;
+  }

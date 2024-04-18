@@ -13,7 +13,7 @@ body{
     font-style: normal;
 }
 
-.foto{width: 20%;}
+.foto{width: 15%;}
 
 .gaegu-bold {
     font-family: "Gaegu", sans-serif;
@@ -61,7 +61,7 @@ body{
 
   .ativo{
     border: 0;
-    border-bottom: 3px solid blue;
+    border-bottom: 3px solid rgb(183, 0, 255);
   }
 
 

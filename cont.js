@@ -8,3 +8,5 @@ while(i<botoes.length) {
     console.log(i);
 }
 const contadores = document.querySelectorAll('.contador');
+
+contadores[0].textContent = "olá visitante";

@@ -7,4 +7,4 @@ while(i<botoes.length) {
     i = i+1
     console.log(i);
 }
-
+const contadores = document.querySelectorAll('.contador');
